@@ -1,4 +1,4 @@
-# My Personal Landing Page
+# My Personal Portfolio
 
 ![Project Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
 
