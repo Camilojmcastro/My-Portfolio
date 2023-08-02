@@ -7,7 +7,8 @@ This project is a personal landing page that acts as an online portfolio to show
 
 Preview
 Landing Page Preview
-![LandingPagePS1](https://github.com/Camilojmcastro/MyPersonalLandingPage/assets/116760586/1cc59c8e-01e8-46df-99be-f809a9217d6d)
+![LandingPagePS1](https://github.com/Camilojmcastro/MyPersonalLandingPage/assets/116760586/aecb3a01-d163-4e4d-a794-b5d6cf4216c4)
+
 
 Features
 Display my name and a brief title
