@@ -20,10 +20,6 @@ This project is a personal landing page that acts as an online portfolio to show
 - Stylish background image with overlay effect
 - Responsive design (work in progress)
 
-## Usage
-
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
-2. Open `index.html` in your web browser to view the landing page.
 
 ## Future Improvements
 
@@ -34,7 +30,7 @@ This project is a personal landing page that acts as an online portfolio to show
 
 ## Contributions
 
-Contributions are welcome! If you have any suggestions or find any issues, feel free to open an issue or create a pull request.
+Contributions are welcome! If you have any suggestions or find any issues, feel free to contact.
 
 ## Credits
 
