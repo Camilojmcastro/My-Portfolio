@@ -10,8 +10,9 @@ This project is a personal landing page that acts as an online portfolio to show
 
 ## Preview
 ![ScreenShot1](https://github.com/Camilojmcastro/MyPersonalPortfolio/assets/116760586/a2ea41b5-3773-41b6-8e14-e607faaf3ad6)
-![ScreenShot2](https://github.com/Camilojmcastro/MyPersonalPortfolio/assets/116760586/ac3fd9b0-cb90-4032-bd1c-2583db78a82b)
-![ScreenShot3](https://github.com/Camilojmcastro/MyPersonalPortfolio/assets/116760586/55ca8f38-0695-417c-a706-575f77d39dca)
+![ScreenShot2](https://github.com/Camilojmcastro/MyPersonalPortfolio/assets/116760586/7fa50f17-18fc-4b1d-94d5-e57991af96ba)
+![ScreenShot3](https://github.com/Camilojmcastro/MyPersonalPortfolio/assets/116760586/e2cd80e0-b464-451c-90f1-27f1b03f6069)
+
 
 
 
